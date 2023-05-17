@@ -59,7 +59,7 @@ Coding a simple 7 functional calculator program in C.
 <ul>
   <li>
     <p>
-      <b>The 7 functions/operator switch cases are written such as multipulcation, divison, subtraction. Furthermore, switch case 'h' displays the available options, 'c' will clear the screen, and 'Q' will exit the program. </b>
+      <b>The results are returned to the user and then the code is pretty much repeated for the different operators, subtraction and multipulcation. Line 137, "scanf_s" is where the changes are made for subtraction and so on. </b>
     </p>
   </li>
 </ul>
@@ -71,7 +71,7 @@ Coding a simple 7 functional calculator program in C.
 <ul>
   <li>
     <p>
-      <b>The 7 functions/operator switch cases are written such as multipulcation, divison, subtraction. Furthermore, switch case 'h' displays the available options, 'c' will clear the screen, and 'Q' will exit the program. </b>
+      <b>Again, line 155 in the previous screenshot to line 158 here, is where the code is changed for that operator. Division and Modulus were written in the rest of the screenshot. </b>
     </p>
   </li>
 </ul>
