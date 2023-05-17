@@ -47,7 +47,7 @@ Coding a simple 7 functional calculator program in C.
 <ul>
   <li>
     <p>
-      <b>The 7 functions/operator switch cases are written such as multipulcation, divison, subtraction. Furthermore, switch case 'h' displays the available options, 'c' will clear the screen, and 'Q' will exit the program. </b>
+      <b>Code that is written here is what the user will see (printf). Further down, the scanf_s is the command that will scan the 2 numbers that are requested of the user when using the addition operator. </b>
     </p>
   </li>
 </ul>
