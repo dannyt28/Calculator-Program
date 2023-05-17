@@ -91,7 +91,7 @@ Coding a simple 7 functional calculator program in C.
 <h2>Screenshot 7:</h2>
 <p align="center">
 </p>
-<img src="https://i.imgur.com/iot7LK8.png" height="85%" width="85%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Md5qMoN.png" height="85%" width="85%" alt="Disk Sanitization Steps"/>
 <ul>
   <li>
     <p>
