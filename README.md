@@ -83,7 +83,7 @@ Coding a simple 7 functional calculator program in C.
 <ul>
   <li>
     <p>
-      <b>The 7 functions/operator switch cases are written such as multipulcation, divison, subtraction. Furthermore, switch case 'h' displays the available options, 'c' will clear the screen, and 'Q' will exit the program. </b>
+      <b>Power and Factorial operator was written here. For factorial, the user is asked to enter a number once and the if statement on lines 225-229 are for the user interacting with the program. </b>
     </p>
   </li>
 </ul>
@@ -95,12 +95,11 @@ Coding a simple 7 functional calculator program in C.
 <ul>
   <li>
     <p>
-      <b>The 7 functions/operator switch cases are written such as multipulcation, divison, subtraction. Furthermore, switch case 'h' displays the available options, 'c' will clear the screen, and 'Q' will exit the program. </b>
+      <b>Output. Program is running.</b>
     </p>
   </li>
 </ul>
   
 
   
-<h2>Conclusion</h2>
-Performing live system forensics requires precision to avoid losing crucial evidence. In this project, industry-standard forensic recovery tools were utilized to conduct a live system memory analysis. The investigation involved capturing a live image of the host system's RAM using AccessData FTK Imager on a Windows 10 VM and analyzing the captured memory image using Volatility on a SIFT VM. The focus of the investigation encompassed the examination of operating system processes, registries, log files, and hashes. Detailed methodology and findings were meticulously documented in a comprehensive Microsoft Word report, including step-by-step screen captures. The report serves as complete forensic lab notes, establishing the investigator's expertise as a potential witness in court proceedings, if required.
+
